@@ -14,11 +14,7 @@ import Quest1.Arara;
 import Quest1.Cachorro;
 import Quest1.Vaca;
 
-/**
- *
- * @author W4ND3K0
- */
-public class TestaAnimais {
+  public class TestaAnimais {
     
     public static void main(String[] args) {
         Papagaio p1 = new Papagaio("Loro", true, "Biscoito!");
